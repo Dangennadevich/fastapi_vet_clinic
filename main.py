@@ -1,3 +1,5 @@
+# start project: uvicorn main:app --reload
+
 from enum import Enum
 from fastapi import FastAPI, Query
 from pydantic import BaseModel
