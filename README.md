@@ -27,3 +27,11 @@ container here:
 https://hub.docker.com/r/dangennadevich/movs
 
 TAG: fastapi_vet_clinic
+
+Terminal
+docker pull dangennadevich/movs:fastapi_vet_clinic
+docker run -p 5555:8005 8536b076784c
+
+Open in a web
+http://localhost:5555/
+http://localhost:5555/docs
