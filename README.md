@@ -24,6 +24,6 @@ The next task was to compile a docker container
 https://drive.google.com/file/d/1ZQMPWCCQTC3WgtZCLH4C1OQ_EX-Cc4qK/view
 
 container here:
-https://hub.docker.com/
-dangennadevich/movs
-fastapi_vet_clinic
+https://hub.docker.com/r/dangennadevich/movs
+
+TAG: fastapi_vet_clinic
